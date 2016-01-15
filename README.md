@@ -1,4 +1,6 @@
 # testGit 1 3 4
 dsf
 dsf
-bobo
+<<<<<<< HEAD
+bobo tangaina
+
