@@ -1,8 +1,9 @@
 # testGit 1 3 4
-dsf
-zzz
-conflict
+dsf GOOOD GOOODOGOO
+zzzDOODLEDUDDD
+conflictDUE
 newLIneFromLocal
 NONONO
 YES!
 NO!
+nananan
