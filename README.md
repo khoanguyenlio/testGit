@@ -2,5 +2,5 @@
 dsf
 zzz
 conflict
-
+newLIneFromLocal
 NONONO
