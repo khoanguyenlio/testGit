@@ -2,16 +2,16 @@
 dsf
 zzz
 conflict
-dsf
+dsf dsfa dsasfdsaf fads dsadsfas
 zzz HAHA
 conflict
 dsf GOOOD GOOODOGOO
 zzzDOODLEDUDDD
 conflictDUE
-newLIneFromLocal
+newLIneFromLocal dsaf dsa
 NONONO
 YES!
-NO!
-zing.vnnn
-llalaaaa
+NO!f dsa
 nananan
+f dsa asdfa sdf asdf
+ asdf dsafdsaf sadf
