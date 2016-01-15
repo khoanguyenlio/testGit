@@ -1,11 +1,11 @@
-# testGit 1 3 4
+# testGit =
 dsf
 zzz
 conflict
-dsf
-zzz HAHA
-conflict
-dsf GOOOD GOOODOGOO
+dsf lah lah lah
+zzz HAHA bobo
+conflictzzzzzzz
+dsf 
 zzzDOODLEDUDDD
 conflictDUE
 newLIneFromLocal
